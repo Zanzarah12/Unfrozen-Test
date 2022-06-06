@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32a154fd82a11764395d7367faccbb7b, type: 3}
+  m_Name: Miner Elite Ability
+  m_EditorClassIdentifier: 
+  damage: 30
+  possibleTargets: 0100000002000000
+  pushAmount: 1
+  abilityUIPrefab: {fileID: 8671273714109513730, guid: cf8a59cee0754674b81b7d414ee849af,
+    type: 3}
+  abilitySpineAnimationReferenceAsset: {fileID: 11400000, guid: dd8ecc54771b47242862139e06cff613,
+    type: 2}

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d62eaec4bfbce06478d0454fe1950482, type: 3}
+  m_Name: Miner
+  m_EditorClassIdentifier: 
+  unitFighterPrefab: {fileID: 6215399820287461519, guid: 29b58dbb782437a48addccb659981d4b,
+    type: 3}
+  maxHealth: 70
+  initiative: 30
+  dodgeChance: 15
+  unitHUDPrefab: {fileID: 5584017148177991691, guid: 65c6da69c1dcda74fba179c5f91e1521,
+    type: 3}
+  abilities:
+  - {fileID: 11400000, guid: 35518d3460fc5794ea8fa2e952bdaec1, type: 2}
+  - {fileID: 11400000, guid: 5f061ae7e00ab2048bf0fb91258e52fa, type: 2}
+  - {fileID: 11400000, guid: e09dd7bb565de2140ad157f2096d92a6, type: 2}
+  - {fileID: 11400000, guid: 1132dea26e270c34cbe6bba008240ddf, type: 2}
+  - {fileID: 11400000, guid: 5ca389f0f91e01342b592f98aab46f8b, type: 2}
